@@ -32,4 +32,4 @@ menuentry '<whatever name you want>' {
 
 By convention, I named my first iteration `kernel-001` where `001` is the `<version>`
 
-To run this kernel, simply reboot your PC and choose <whatever name you want> in the dropdown
+To run this kernel, simply reboot your PC and choose `<whatever name you want>` in the dropdown
