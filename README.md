@@ -25,7 +25,7 @@ After building the source code, you need to move the final executable (preferabl
 
 Then, open the grub.cfg in /boot/grub and add the following at the bottom of the file:
 
-menuentry '<whatever name you want>' {
+menuentry '`<whatever name you want>`' {
 	set root='hd0,msdos1'
 	multiboot /boot/kernel-<version> ro
 }
